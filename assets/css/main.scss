@@ -36,3 +36,9 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+.sidebar {
+  @include breakpoint($x-large) {
+    max-width: 300px;   // default is 250px
+  }
+}
