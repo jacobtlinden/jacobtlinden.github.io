@@ -26,9 +26,9 @@ author:
   avatar           : "profile"
   name             : "Jacob Linden"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Computational and Applied Mathematics"
+  bio              : "PhD Student, | Computational and Applied Mathematics, | University of Chicago"
   location         : "Chicago, IL"
-  employer         : "University of Chicago"
+  employer         : #
   uri              : # URL
   email            : "jacoblinden@uchicago.edu" 
 
