@@ -42,3 +42,9 @@
     max-width: 300px;   // default is 250px
   }
 }
+
+.page {
+  @include breakpoint($x-large) {
+    padding-left: calc(5% + 50px);
+  }
+}
