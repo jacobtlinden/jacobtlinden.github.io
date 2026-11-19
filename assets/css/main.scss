@@ -37,6 +37,10 @@
     "layout/sidebar"
 ;
 
+/*
+ * increase width of bio, move body text to right, center profile pic
+ */
+
 .sidebar {
   @include breakpoint($x-large) {
     max-width: 300px;   // default is 250px
@@ -46,5 +50,13 @@
 .page {
   @include breakpoint($x-large) {
     padding-left: calc(5% + 50px);
+  }
+}
+
+.author__avatar img {
+  @include breakpoint($large) {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
