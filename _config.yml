@@ -23,7 +23,7 @@ repository               : "jacobtlinden/jacobtlinden.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile"
   name             : "Jacob Linden"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Computational and Applied Mathematics"
